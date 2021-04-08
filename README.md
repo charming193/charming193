@@ -2,9 +2,10 @@
  
 #### :heart: I'm passionate about:
 
-- React / Redux / Vue / NextJS / NuxtJS / React Native 
-- Express / Node / Laravel / Django
+- React / Vue / Bootstrap
+- Express / Node / Laravel
 - MongoDB / Mysql / Postgresql
+- Shopify / Microweber / Nova
 - AWS / Oracle / Azure / Heroku
 
 #### :computer: Programming languages:

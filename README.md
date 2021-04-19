@@ -2,11 +2,12 @@
  
 #### :heart: I'm passionate about:
 
-- React / Vue / Bootstrap
-- Express / Node / Laravel
+- Laravel / Express / Node
+- Bootstrap / React / Vue
 - MongoDB / Mysql / Postgresql
 - Shopify / Microweber / Nova
 - AWS / Oracle / Azure / Heroku
+- API
 
 #### :computer: Programming languages:
 

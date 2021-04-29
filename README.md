@@ -4,6 +4,7 @@
 
 - Laravel / Express / Node
 - Bootstrap / React / Vue
+- Blockchain / binance smart chain / smart contract / cryptocurrency token / ICO
 - MongoDB / Mysql / Postgresql
 - Shopify / Microweber / Nova
 - AWS / Oracle / Azure / Heroku

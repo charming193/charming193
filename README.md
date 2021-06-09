@@ -2,9 +2,9 @@
  
 #### :heart: I'm passionate about:
 
-- Laravel / Express / Node
-- Bootstrap / React / Vue
 - Blockchain / binance smart chain / smart contract / cryptocurrency token / ICO
+- Bootstrap / React / Vue
+- Laravel / Express / Node
 - MongoDB / Mysql / Postgresql
 - Shopify / Microweber / Nova
 - AWS / Oracle / Azure / Heroku
@@ -12,9 +12,9 @@
 
 #### :computer: Programming languages:
 
+- Solidity
 - Typescript
 - Javascript
-- Python
 - PHP
 - Sql
 - NoSql

@@ -22,3 +22,5 @@
 - Css
 
 #### :octocat: My GH stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=charming193&count_private=true&show_icons=true) 

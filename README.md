@@ -1,6 +1,6 @@
-# Hi there, I'm Senior Full-Stack Guru  :wink:
+# Hi, I'm a Senior Blockchain and Full-Stack Web Developer  :wink:
  
-#### :heart: I'm passionate about:
+#### :heart: I'm fully experienced in:
 
 - Blockchain / binance smart chain / smart contract / cryptocurrency token / ICO
 - Bootstrap / React / Vue
@@ -22,5 +22,3 @@
 - Css
 
 #### :octocat: My GH stats
-
-![Artem's github stats](https://github-readme-stats.vercel.app/api?username=charming193&count_private=true&show_icons=true) 

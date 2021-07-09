@@ -2,11 +2,12 @@
  
 #### :heart: I'm fully experienced in:
 
-- Blockchain / binance smart chain / smart contract / cryptocurrency token / ICO
-- Bootstrap / React / Vue
+- Blockchain / Ethereum chain / binance smart chain / smart contract / solidity
+- DeFi / Dex / NFT
+- React / Next
 - Laravel / Express / Node
 - MongoDB / Mysql / Postgresql
-- Shopify / Microweber / Nova
+- Web3 / Ethers
 - AWS / Oracle / Azure / Heroku
 - API
 

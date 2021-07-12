@@ -4,7 +4,7 @@
 
 - Blockchain / Ethereum chain / binance smart chain / smart contract / solidity
 - DeFi / Dex / NFT
-- React / Next
+- React / Next / Angular
 - Laravel / Express / Node
 - MongoDB / Mysql / Postgresql
 - Web3 / Ethers

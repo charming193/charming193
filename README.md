@@ -24,4 +24,8 @@
 
 #### :octocat: My GH stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=charming193&count_private=true&show_icons=true) 
+![My github stats]
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charming193&count_private=true&show_icons=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charming193&layout=compact&theme=solidity" style="min-width:800px"/>
+</p>
